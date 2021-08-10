@@ -33,7 +33,7 @@ import DisplayData from './DisplayData'
 // }
 
 class ParentComponent extends React.Component {
-    ...
+
     render() {
       return (
         <div>
